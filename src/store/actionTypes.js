@@ -1,0 +1,2 @@
+export const ADD_MOVIES = "ADD_MOVIES"
+export const ADD_MOVIE_DETAILS = "ADD_MOVIE_DETAILS"
